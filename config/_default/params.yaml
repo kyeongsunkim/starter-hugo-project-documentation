@@ -93,3 +93,6 @@ cms:
    branch: main
    publish_mode: editorial_workflow
    local_backend: true
+slides:
+  theme: "black"  # Reveal JS theme name
+  highlight_style: "dracula"  # Highlight JS theme name
