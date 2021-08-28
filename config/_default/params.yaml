@@ -83,9 +83,13 @@ marketing:
   google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
-cms:
-  branch: main
-  local_backend: false
+# cms:
+#  branch: main
+#  local_backend: false
 icon:
   pack:
     ai: false
+cms:
+   branch: main
+   publish_mode: editorial_workflow
+   local_backend: true
